@@ -1,8 +1,8 @@
- 👋 Hello, I’m MiroCoder
+# 👋 Hello, I’m MiroCoder
 
-- 💻 I’m passionate about coding, Java development, and Django.
-- 📖 Currently learning Java, Spring, and Django.
-- 🌟 I’m open to collaboration, offers, assignments, and training opportunities.
+- 💻 I build projects with Java, Spring, Python, and Django.
+- 🧠 Backend-focused. Clean logic, practical apps, real progress.
+- 🌟 Open to collaboration, offers, assignments, and training opportunities.
 
 Feel free to reach out if you'd like to work together!
 
